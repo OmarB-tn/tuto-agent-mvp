@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+websockets
+pyautogui
+pillow
+mss
+openai
+python-dotenv
